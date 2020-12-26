@@ -16,3 +16,5 @@
 ## npm related
 - npm install
     - Download all the files related to that project
+# Frontend related 
+- this ehting is realted to frontend
